@@ -1,0 +1,33 @@
+[
+  {
+    "id": "2025-06-09T05:51:36.217Z",
+    "username": "lalit",
+    "email": "lalit@gmail.com",
+    "password": "$2b$10$2ur3d9OkTlehFdvxVACLr.iskBv5t5PuFuDgwELqLEohCjln6xAG6",
+    "phoneNumber": "1234567890"
+  },
+  {
+    "id": "2025-06-09T06:17:17.397Z",
+    "username": "lalith",
+    "email": "lalith@gmail.com",
+    "password": "$2b$10$h52roACGJa9j5CSOdIGA5ebbFAg15PGh2uXngY1tqyI3KNgHzk8Ia",
+    "phoneNumber": "1234567890"
+  },
+  {
+    "id": "user_1749451353445",
+    "username": "Rajat",
+    "email": "lalit.302004@gmail.com",
+    "password": "$2b$10$aXkF2DvbljkUU3e2xBN4BeEsMWposwqanuYAOTWiauqeCT8.hAMIu",
+    "phoneNumber": "",
+    "createdAt": "2025-06-09T06:42:33.445Z",
+    "company": "Web Designer"
+  },
+  {
+    "id": "user_1749451535777",
+    "username": "lalitd",
+    "email": "ld@gmail.com",
+    "password": "$2b$10$NAuC9lteEzp20A5MUUHvwe2EmmiWRkVGmrieDAb1IwdDZlasQycaa",
+    "phoneNumber": "",
+    "createdAt": "2025-06-09T06:45:35.777Z"
+  }
+]

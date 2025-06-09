@@ -1,0 +1,70 @@
+{
+    "providers": [
+        {
+            "id": "deepgram",
+            "displayName": "Deepgram",
+            "models": [
+                {
+                    "id": "nova-2",
+                    "displayName": "Nova-2",
+                    "languages": [
+                        {
+                            "id": "en-US",
+                            "displayName": "English (US)"
+                        },
+                        {
+                            "id": "hi-IN",
+                            "displayName": "Hindi"
+                        },
+                        {
+                            "id": "ta-IN",
+                            "displayName": "Tamil"
+                        }
+                    ]
+                },
+                {
+                    "id": "whisper-large",
+                    "displayName": "Whisper Large",
+                    "languages": [
+                        {
+                            "id": "en-US",
+                            "displayName": "English (US)"
+                        },
+                        {
+                            "id": "hi-IN",
+                            "displayName": "Hindi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "displayName": "Google Cloud",
+            "models": [
+                {
+                    "id": "latest",
+                    "displayName": "Latest",
+                    "languages": [
+                        {
+                            "id": "en-US",
+                            "displayName": "English (US)"
+                        },
+                        {
+                            "id": "hi-IN",
+                            "displayName": "Hindi"
+                        },
+                        {
+                            "id": "ta-IN",
+                            "displayName": "Tamil"
+                        },
+                        {
+                            "id": "te-IN",
+                            "displayName": "Telugu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
