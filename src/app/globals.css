@@ -50,6 +50,10 @@
 }
 
 @layer base {
+    * {
+        @apply border-border;
+    }
+
     body {
         @apply bg-background text-foreground antialiased;
     }
@@ -123,7 +127,7 @@
 
 /* Glass effect */
 .glass {
-    @apply bg-background/50 backdrop-blur-lg border shadow-lg;
+    @apply bg-background/50 backdrop-blur-lg border border-border/50 shadow-lg;
 }
 
 /* Form elements */
@@ -145,7 +149,7 @@
 
 /* Card styles */
 .card {
-    @apply rounded-xl bg-card p-6 shadow-sm ring-1 text-card-foreground transition-colors duration-200;
+    @apply rounded-xl bg-card p-6 shadow-sm ring-1 ring-border text-card-foreground transition-colors duration-200;
 }
 
 /* Dropdown styles */
