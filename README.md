@@ -2,8 +2,6 @@
 
 PropAl AI is a modern web application that revolutionizes how small and medium businesses interact with their customers through intelligent voice AI. Built with Next.js and Tailwind CSS, it offers a beautiful, responsive interface with modern design elements and smooth animations.
 
-![PropAl AI](public/screenshot.png)
-
 ## Features
 
 - 🎨 **Modern UI/UX**
